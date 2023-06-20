@@ -1,0 +1,31 @@
+body {
+    font-family: Helvetica;
+    background-color: #f88807b9 ;
+    color: #db4040 ;
+
+}
+#index {
+    font-weight: 400;
+    text-align: center;
+}
+a,
+.content{
+list-style: none;
+text-decoration: none;
+color: #db4040;
+text-align: center;
+}
+.recipe.title {
+
+}
+.description {
+    font-size: 25px;
+}
+.description.para {
+    font-size: 18px;
+}
+.ingredients,
+.steps {
+    font-size: 25px;
+    text-align: left;
+}
